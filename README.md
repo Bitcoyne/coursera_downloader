@@ -27,7 +27,7 @@ Grab your coursera cookies and copy and paste them into cookies.txt. This plugin
 When
 ==========
 
-This is wokring as of 2013-10-04
+This is working as of 2013-10-04
 
 Who
 ==========
