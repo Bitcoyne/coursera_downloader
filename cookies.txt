@@ -1,0 +1,17 @@
+# Cookies for domains related to coursera.org.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://class.coursera.org/compfinance-005/class
+#
+class.coursera.org	FALSE	/compfinance-005	FALSE	0000000000.0000005	csrf_token	000ngcfNbW5mbKHF0sBWF
+class.coursera.org	FALSE	/datasci-000	FALSE	000000000000.0000000	csrf_token	TeSkrdFnbKGxy00lPdAaj
+.coursera.org	TRUE	/	FALSE	0000005000	__000u	0000000000000-000000000000000
+www.coursera.org	FALSE	/	FALSE	0000000000500	__000r	
+accounts.coursera.org	FALSE	/	FALSE	0000000000000	__000r	https%0A%0F%0Fwww.coursera.org%0Fcourse%0Fcompfinance%0Futm_campaign%0D0000-august-newsletter%00utm_date%0D00000005000%00utm_source%0Dnewsletter%00utm_user%0D00000050%00utm_medium%0Demail%00utm_recommendation%0D0%00utm_variant%0D005
+.coursera.org	TRUE	/	TRUE	0005000000	CAUTH	HE0L00DSa-TwfSBKbivVPi-PODHqUExizeomqOQqI-olYyt0TaB00DldTKJEgMTQrUXulTLowGFO_cYg0cYKhQA.Yi0pFbUEOcB0QL0PNvUHFw.R0y0fZfGPqd0PVjRsD0GVWP5Hhvb0tfiyEeZIifacAEcpf5srScfYZqwbArKnls0Mcx0jXb0HekuCwYl_acoRFUrzjzwLJacnzDdyw_AhJHPxLJIoAD0w00ouqYyUPbyuchRBSbDGejBbSiMCKU0EQcBMDE0kCQpa0We0AX0aHJGctwpwCf00e0C-VuJpQMR
+.coursera.org	TRUE	/	FALSE	0005000000	maestro_login_flag	0
+class.coursera.org	FALSE	/	FALSE	000000000000	__000r	https%0A%0F%0Faccounts.coursera.org%0Fsignin%0Fcourse_id%0D0000000%00r%0Dhttps%050A%050F%050Fclass.coursera.org%050Fcompfinance-005%050Fclass%050Findex%050Futm_classid%050D0000000%0500utm_nottype%050Dclass.generic%0500utm_notid%050D0000%0500utm_linknum%050D0%00user_action%0Dclass%00topic_name%0DIntroduction%0500to%0500Computational%0500Finance%0500and%0500Financial%0500Econometrics
+www.coursera.org	FALSE	/	FALSE	0000000000	ab-experiments-session	homepage_signup_button
+.coursera.org	TRUE	/	FALSE	00000050000	__utma	050000000.000000000000.0000000000.0000000000.0000000000.0
+.coursera.org	TRUE	/	FALSE	00000000000	__utmb	050000000.00.0.0000000000000
+.coursera.org	TRUE	/	FALSE	0	__utmc	050000000
+.coursera.org	TRUE	/	FALSE	00000000000	__utmz	050000000.0000000000.0.0.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%00provided)
